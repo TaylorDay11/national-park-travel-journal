@@ -2,7 +2,7 @@
 
 version: 1.0
 
-coding languages: HTML, CSS, Javascript, & React
+coding languages: HTML, CSS, JavaScript, & React
 
 created by: Taylor Hershberger
 
